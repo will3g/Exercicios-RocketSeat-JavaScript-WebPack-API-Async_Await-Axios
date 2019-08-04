@@ -1,0 +1,50 @@
+h3 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+li {
+    clear: both;
+    margin-top: 20px;
+}
+
+img {
+    width: 80px;
+    float: left;
+    margin-right: 10px;
+}
+
+strong {
+    font-size: 20px;
+}
+
+p {
+    margin: 5px 0;
+}
+
+#botao {
+    background: #9400FF;
+    border: 1px solid #9400FF;
+}
+
+#botao:hover {
+    background: #B757FD;
+}
+
+#mensagem-erro {
+    width: 35%;
+}
+
+.mensagem-erro-esconde {
+    display: none;
+}
+
+.mensagem-erro-exibe {
+    display: block;
+}
